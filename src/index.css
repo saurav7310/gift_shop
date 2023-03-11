@@ -1,0 +1,13 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #fbe3e8;
+}
+.categories {
+  margin-top: 5px;
+  height: 50px;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: fantasy;
+  color: rgb(235, 146, 73);
+}

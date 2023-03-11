@@ -1,0 +1,265 @@
+export const sliderItems = [
+  {
+    id: 1,
+    img: "https://img.freepik.com/premium-vector/editable-text-style-effect-with-20th-anniversary-numbers_269039-102.jpg?w=1100",
+    title: "Anniversary Special",
+    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    bg: "f5fafd",
+  },
+  {
+    id: 2,
+    img: "https://rlv.zcache.com/happy_anniversary_cheers_wine_bottle_poster-ra3fd4d0c2fcb4911b1fa017a9a83f19a_wva_8byvr_400.jpg",
+    title: "AUTUMN COLLECTION",
+    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    bg: "fcf1ed",
+  },
+  {
+    id: 3,
+    img: "https://png.pngtree.com/background/20210709/original/pngtree-happy-birthday-cake-candle-poster-background-material-picture-image_321869.jpg",
+    title: "LOUNGEWEAR LOVE",
+    desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+    bg: "fbf0f4",
+  },
+];
+
+export const categories = [
+  {
+    id: 1,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-heart-shaped-sweet-delight-600-gm--199890-m.jpg",
+    title: "CAKES",
+    navi: "/cakes",
+  },
+  {
+    id: 2,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt17prodlp/products/p-gerbera-pride-hamper-178379-m.jpg",
+    title: "HAMPERS",
+    navi: "/hampers",
+  },
+  {
+    id: 3,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-special-personalized-led-cushion-73302-m.jpg",
+    title: "PERSONALISE",
+    navi: "/personalise",
+  },
+];
+
+export const cakes = [
+  {
+    id: 1,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt17prodlp/products/p-happy-holi-fresh-cream-cake-600-gm--204238-m.jpg",
+    price: 400,
+    title: "Holi Fresh Cream",
+    type: "Cake",
+  },
+  {
+    id: 2,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-delicious-choco-creamy-cake-600-gm--190843-m.jpg",
+    price: 500,
+    title: "Delicious Choco",
+    type: "Cake",
+  },
+  {
+    id: 3,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-heart-shaped-pink-love-cake-rosette-1kg--201982-m.jpg",
+    price: 550,
+    title: "Pink Love",
+    type: "Cake",
+  },
+  {
+    id: 4,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-delicious-mixed-fruit-cake-600-gm--195856-m.jpg",
+    price: 650,
+    title: "Butter Cake",
+    type: "Cake",
+  },
+  {
+    id: 5,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-classic-red-velvet-cake-half-kg--109230-m.jpg",
+    price: 690,
+    title: "Pineapple",
+    type: "Cake",
+  },
+  {
+    id: 6,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-delicious-truffle-cake-half-kg--145982-m.jpg",
+    price: 890,
+    title: "Tuffle Cake",
+    type: "Cake",
+  },
+  {
+    id: 7,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-roses-pearls-chocolate-cake-half-kg--132286-m.jpg",
+    price: 890,
+    title: "Choclate Cake",
+    type: "Cake",
+  },
+];
+
+export const hampers = [
+  {
+    id: 1,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-sunshine-sweetness-145595-m.jpg",
+    price: 3000,
+    title: "Sunshine hampers",
+    type: "Hampers",
+  },
+  {
+    id: 2,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-gourmet-treats-in-gift-basket-hamper-141360-m.jpg",
+    price: 3400,
+    title: "Gift Basket Hamper",
+    type: "Hampers",
+  },
+  {
+    id: 3,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-adam-s-bouquet-188177-m.jpg",
+    price: 2900,
+    title: "Adam Boutique",
+    type: "Hampers",
+  },
+  {
+    id: 4,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-nuts-about-you-gift-hamper-118488-m.jpg",
+    price: 2970,
+    title: "Nuts About",
+    type: "Hampers",
+  },
+  {
+    id: 5,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-gerbera-pride-hamper-178379-m.jpg",
+    price: 999,
+    title: "Garbera Hamper",
+    type: "Hampers",
+  },
+  {
+    id: 6,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-the-little-pot-of-love-hamper-187935-m.jpg",
+    price: 2987,
+    title: "Flora Avalanche",
+    type: "Hampers",
+  },
+  {
+    id: 7,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-let-the-love-grow-hamper-187937-m.jpg",
+    price: 2400,
+    title: "Givinci",
+    type: "Hampers",
+  },
+];
+
+export const personalise = [
+  {
+    id: 1,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-hugs-kisses-personalized-mug-24500-m.jpg",
+    price: 300,
+    title: "Cup Pic",
+    type: "Personalise",
+  },
+  {
+    id: 2,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-mickey-love-personalized-puzzle-190624-m.jpg",
+    price: 340,
+    title: "Mickey Love",
+    type: "Personalise",
+  },
+  {
+    id: 3,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-capricorn-sun-sign-birthday-mug-61077-m.jpg",
+    price: 290,
+    title: "Capricorn ",
+    type: "Personalise",
+  },
+  {
+    id: 4,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-age-of-avengers-personalized-puzzle-187320-m.jpg",
+    price: 270,
+    title: "Age Of Avenger",
+    type: "Personalise",
+  },
+  {
+    id: 5,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-cars-mcqueen-personalized-tumbler-192587-m.jpg",
+    price: 999,
+    title: "Car Macqueen",
+    type: "Personalise",
+  },
+  {
+    id: 6,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-personalized-led-fur-cushion-for-anniversary-166619-m.jpg",
+    price: 987,
+    title: "Pillow Pic",
+    type: "Personalise",
+  },
+  {
+    id: 7,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-aquarius-sun-sign-birthday-mug-61074-m.jpg",
+    price: 240,
+    title: "Aquaris",
+    type: "Personalise",
+  },
+];
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt17prodlp/products/p-happy-holi-fresh-cream-cake-600-gm--204238-m.jpg",
+    price: 400,
+    title: "Holi Fresh Cream",
+    type: "Cake",
+  },
+  {
+    id: 2,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-delicious-choco-creamy-cake-600-gm--190843-m.jpg",
+    price: 500,
+    title: "Delicious Choco",
+    type: "Cake",
+  },
+  {
+    id: 3,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-heart-shaped-pink-love-cake-rosette-1kg--201982-m.jpg",
+    price: 550,
+    title: "Pink Love",
+    type: "Cake",
+  },
+  {
+    id: 4,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-nuts-about-you-gift-hamper-118488-m.jpg",
+    price: 2970,
+    title: "Nuts About",
+    type: "Hampers",
+  },
+  {
+    id: 5,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-gerbera-pride-hamper-178379-m.jpg",
+    price: 999,
+    title: "Garbera Hamper",
+    type: "Hampers",
+  },
+  {
+    id: 6,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-the-little-pot-of-love-hamper-187935-m.jpg",
+    price: 2987,
+    title: "Flora Avalanche",
+    type: "Hampers",
+  },
+  {
+    id: 7,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-cars-mcqueen-personalized-tumbler-192587-m.jpg",
+    price: 999,
+    title: "Car Macqueen",
+    type: "Personalise",
+  },
+  {
+    id: 8,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-personalized-led-fur-cushion-for-anniversary-166619-m.jpg",
+    price: 987,
+    title: "Pillow Pic",
+    type: "Personalise",
+  },
+  {
+    id: 9,
+    img: "https://cdn.igp.com/f_auto,q_auto,t_pnopt10prodlp/products/p-aquarius-sun-sign-birthday-mug-61074-m.jpg",
+    price: 240,
+    title: "Aquaris",
+    type: "Personalise",
+  },
+];
